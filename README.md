@@ -1,0 +1,2 @@
+# -CIFAR-10-VAE-DDPM
+在CIFAR-10数据集上实现并比较了两种基于ELBO的生成模型：VAE和DDPM
